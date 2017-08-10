@@ -4,9 +4,20 @@ p {
 span{
   color: green;
 }
-table, th, td {
-    border: 1px solid black;
+table{
+    border-collapse: collapse;
+    width: 100%;
 }
+th {
+    background-color: #20B2AA;
+    color: white;
+    padding: 20px;
+}
+td{
+    padding: 20px;
+}
+tr:nth-child(even){background-color: #FFFAFA}
+
 img {
     float: right;
     margin: 0 0 70px 70px;
@@ -17,6 +28,7 @@ h1{
 }
 h3{
   font-family:Impact, fantasy;
+  font-size: 20px;
 }
 body{
   background-color: papayawhip;
