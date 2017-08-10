@@ -18,7 +18,7 @@ th {
 td{
     padding: 20px;
 }
-tr:nth-child(even){background-color: #FFFAFA}
+tr:nth-child(odd){background-color: #FFFAFA}
 
 img {
     float: right;
