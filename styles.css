@@ -6,7 +6,7 @@ span{
 }
 table{
     border-collapse: collapse;
-    width: 50%;
+    width: 60%;
 }
 th {
     background-color: #20B2AA;
@@ -20,7 +20,7 @@ tr:nth-child(even){background-color: #FFFAFA}
 
 img {
     float: right;
-    margin: 0 0 70px 70px;
+    margin: 0 0 px 70px;
 }
 h1{
   font-family: Chalkduster, fantasy;
