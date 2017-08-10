@@ -12,6 +12,7 @@ th {
     background-color: #20B2AA;
     color: white;
     padding: 20px;
+    font-size: 20px;
 }
 td{
     padding: 20px;
@@ -24,11 +25,12 @@ img {
 }
 h1{
   font-family: Chalkduster, fantasy;
-  background-color: #E9967A
+  background-color: #E9967A;
+  font-size: 40px;
 }
 h3{
   font-family:Impact, fantasy;
-  font-size: 20px;
+  font-size: 30px;
 }
 body{
   background-color: papayawhip;
