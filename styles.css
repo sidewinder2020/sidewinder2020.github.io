@@ -1,5 +1,6 @@
 p {
-  font-family: Courier
+  font-family: Courier;
+  font-weigt: bold;
 }
 span{
   color: green;
